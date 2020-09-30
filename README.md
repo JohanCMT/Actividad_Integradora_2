@@ -10,11 +10,10 @@ Mediante la creación de un recolector de imágenes de la web que las divide en 
 El proyecto está desarrollado en Python, utilizando la herramienta de Selenium para realizar una búsqueda personalizada de imágenes en la plataforma Imagenet. Sería interesante agregar funcionalidades, por ejemplo, la búsqueda en otras bases de imágenes como Shutterstock. Así mismo, se podrían agregar mejores herramientas de búsqueda desde el código para poder personalizarla todavía más.
 
 ## Para más información del proyecto
-Para ayuda con respecto a este proyecto puedes acceder a los siguientes recursos para entender cómo funciona Beautiful Soup y el uso de la regresión lineal. Si tienes más dudas, puedes enviar correo a cualquiera de los colaboradores listados en este archivo.
+Para más ayuda con respecto a este proyecto, se puede contactar directamente a cualquiera de los contribuidores listados abajo. Así mismo, se incluyen las siguientes ligas con la documentación de Selenium así como también un ejemplo de búsqueda en Imagenet utilizando esta herramienta. 
 
-- https://realpython.com/beautiful-soup-web-scraper-python/
-- https://realpython.com/linear-regression-in-python/
-
+https://selenium-python.readthedocs.io/
+https://towardsdatascience.com/web-scraping-using-selenium-836de8677ae5
 
 ## Contribuidores del proyecto
 - Luis Daniel Vazquez (luis_060198@hotmail.com)
